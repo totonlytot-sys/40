@@ -14,6 +14,10 @@
     "@capacitor/local-notifications": "^6.0.0",
     "@capacitor/preferences": "^6.0.0"
   },
+  "overrides": {
+    "ajv": "^8.12.0",
+    "ajv-keywords": "^5.1.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
